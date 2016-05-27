@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="test" name="cryptoserver" basedir=".">
+<project default="test" name="xlCryptoServer" basedir=".">
   <property name="name"           value="cryptoserver"/>
-  <property name="version"        value="0.2.4"/>
-  <property name="versionDate"    value="2015-12-21"/>
-  <!-- manual addition -->
+  <property name="version"        value="0.2.5"/>
+  <property name="versionDate"    value="2016-05-27"/>
   <property name="project_name"   value="xlattice"/>
   <!-- ======================================================= -->
   <!-- S O U R C E   P R O P E R T I E S                       -->
   <!-- ======================================================= -->
   <!-- this is an XLattice subproject, so root_dir is one up   -->
-  <property name="root_dir"       value=".."/>
+  <property name="root_dir"       value="../xlattice_java"/>
   <property name="src_dir"        value="src/java"/>
   <property name="test_src_dir"   value="src/test"/>
   <!-- ======================================================= -->
@@ -17,7 +16,7 @@
   <!-- ======================================================= -->
   <property name="build_dir" value="target"/>
   <property name="classes_dir"      value="${build_dir}/classes"/>
-  <property name="lib_dir"          value="../lib"/>
+  <property name="lib_dir"          value="${root_dir}/lib"/>
   <property name="test_classes_dir" value="${build_dir}/test-classes"/>
   <property name="test_report_dir"  value="${build_dir}/test-reports"/>
   <!-- ======================================================= -->
@@ -54,8 +53,8 @@
           <include name="xlattice/util-0.3.10.jar"/>
           <include name="xlattice/corexml-0.3.7.jar"/>
           <include name="xlattice/crypto-0.2.0.jar"/>
-          <include name="xlattice/transport-0.2.0.jar"/>
-          <include name="xlattice/overlay-0.2.0.jar"/>
+          <include name="xlattice/transport-0.2.5.jar"/>
+          <include name="xlattice/overlay-0.2.6.jar"/>
           <include name="xlattice/node-0.2.0.jar"/>
           <include name="xlattice/httpd-0.2.0.jar"/>
         </fileset>
@@ -153,9 +152,9 @@
         <fileset dir="${lib_dir}/xlattice" includes="util-0.3.10.jar"/>
         <fileset dir="${lib_dir}/xlattice" includes="corexml-0.3.7.jar"/>
         <fileset dir="${lib_dir}/xlattice" includes="crypto-0.2.0.jar"/>
-        <fileset dir="${lib_dir}/xlattice" includes="transport-0.2.0.jar"/>
+        <fileset dir="${lib_dir}/xlattice" includes="transport-0.2.5.jar"/>
         <fileset dir="${lib_dir}/xlattice" includes="protocol-0.2.0.jar"/>
-        <fileset dir="${lib_dir}/xlattice" includes="overlay-0.2.0.jar"/>
+        <fileset dir="${lib_dir}/xlattice" includes="overlay-0.2.6.jar"/>
         <fileset dir="${lib_dir}/xlattice" includes="node-0.2.0.jar"/>
         <fileset dir="${lib_dir}/xlattice" includes="httpd-0.2.0.jar"/>
         <fileset dir="${lib_dir}/xlattice"
@@ -198,4 +197,5 @@
     <delete dir="${dist_dir}"/>
   </target>
 </project>
+
 
