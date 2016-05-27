@@ -1,0 +1,53 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM2sBgX0ChP2JriXkOxS
+e2FjHYVzBGkNvgf0vIAa7FFYZi2pWmxBAVXgl3tTiB3quqqud/MbKqdejM6gkKBK
+v8f7hlcBQLD6BLIZ/RRfhIElc+WlDVfKSnBTB4va5qTQAgvuq5i8+oMj7G8WEy5d
+7cYucWyUJMtHvT4pCDtBWeeqQ62tByWjv34Ud/+A9Mjf0leiWxM3tiToVsqIKb4s
+zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
+H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
+GQIDAQAB
+-----END RSA PUBLIC KEY-----
+xlCryptoServer_java v0.2.5
+2016-05-27 23:27:32
+# START CONTENT #
+xlCryptoServer_java
+ .dvcz
+  projCfg 9eabd8280f8955dce85447d6ac690ca0951d33a8
+  projCfg.local c24da2c291f061150ab455158c813fe771d9567b
+  version 8611cd85707f480101c2d74e654d626f5e037b83
+ .gitignore 45c1a25af208e03923f170c817406cbde528583b
+ CHANGES fcbfebd32a59a9d0055d332a2466a4f0850a6914
+ LICENSE.html 4d0038a843d3f3e0553fca7df2c17ad053916e5d
+ LICENSE.md 50a6fc1b15e967d1dc37ba7559cf121a66240830
+ README.md bfe9a3e3ee6b7b0d612eaff22af319167bcf847c
+ TODO 00ae77c5fe7786b54d87f23f1867ae9fbdd6bc86
+ bkp2U 3a549b23cc91cab92a34fb9fc10d257a783ca71f
+ build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
+ build.xml e119927041f9d2b60913e4d72e53d11a87d6c2f4
+ classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
+ countem 23d28027b7c2ee54b1ea3aa7b04dd1f4cd9ac66f
+ ghpDoc
+ installit 5a44ff7d360ec59ffedecbe3d91711f56bb33e9f
+ project.properties da39a3ee5e6b4b0d3255bfef95601890afd80709
+ project.xml 2b46d5388c2adcf0993d654ecf94e9492fc42d27
+ src
+  java
+   org
+    xlattice
+     cryptoserver
+      Version.java 56ba2e2be84b78b94004d1069b8a2408441afdfd
+     httpd
+      cryptoserver
+       Server.java 9616b4ab147a071a0ea53e38c18a66290d3d1736
+       Version.java 34f6a8e022055c1cb9fcf4b83ab0fe8c198926cb
+  test
+   org
+    xlattice
+     httpd
+      cryptoserver
+       TestServer.java fceadf9233720e465dfc0eb4626d4b8683873f4c
+ styleit 217422d5fcc0c46a782299780560d82bd3bddb18
+ test.all 5a6fe78a622aa99ce2c063f74d8d29f8be3be09a
+# END CONTENT #
+
+d1EFPbhe3pWPFyuCNvQW+xN+zlNd4Da6X/3XYTw9NtWHQZ6xUYHL5a2N8sZJBBwXQD+cj6LT6mp43Bck3ludi0dyps6kdVVXwNyTJRa4GzcgUEwQ49H9AMtb9GWBHwgtsmDA0KU2cfDXlt4rKrdqDMdz/mWmvYzRbWw9kRUKw/NTfIy9tch9eaLISSIjhuGaqvU35INydlccDp4SWDtL50l1o1kYZyXYSk3gG1G9n0MCxqclsb6YNYK8PdRxO1d20ZXh+jhY5rmKi9BVLNcjcCEh905lPsLzDVr8LvUPYyQFMC6Ao3Le94/ARxFqAHuBLk81hH6TXT/eMXAvu4D6KQ==

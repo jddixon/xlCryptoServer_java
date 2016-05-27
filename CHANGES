@@ -1,5 +1,8 @@
 ~/dev/java/xlattice/cryptoserver/CHANGES
 
+v0.2.5
+    2016-05-27
+        * split from xlattice_java; add bkp2U, .dvcz/, etc          SLOC  637
 v0.2.4
     2015-12-21
         * clean build.xml                                           SLOC  481
@@ -14,5 +17,6 @@ v0.2.0
         * stepped version number for move to Stockton svn
         * dropped build.sh, classpath.sh, added CHANGES
         * changed Version.java to follow new pattern
+
 
 
