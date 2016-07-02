@@ -7,26 +7,42 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-xlCryptoServer_java v0.2.5
-2016-05-27 23:27:32
+xlCryptoServer_java v0.2.6
+2016-07-02 20:02:25
 # START CONTENT #
 xlCryptoServer_java
  .dvcz
-  projCfg 9eabd8280f8955dce85447d6ac690ca0951d33a8
+  builds eda7c6da6e400f987d156722e810cd4be09785dd
+  lastBuildList 053e37d4cb161b9be960c1189e5f342520c33131
+  projCfg 10d0c0bcca594215a042ebbbfe3c5df4a7e96ccc
   projCfg.local c24da2c291f061150ab455158c813fe771d9567b
-  version 8611cd85707f480101c2d74e654d626f5e037b83
- .gitignore 45c1a25af208e03923f170c817406cbde528583b
- CHANGES fcbfebd32a59a9d0055d332a2466a4f0850a6914
+  version 57f36f85f15453126d635473b278a0b363592d35
+ .gitignore 73b879f8842850058bca4519cca9b24d39bcf052
+ CHANGES 01115bfdf183b906cf6aee5849c32d5ffe12e0e2
  LICENSE.html 4d0038a843d3f3e0553fca7df2c17ad053916e5d
  LICENSE.md 50a6fc1b15e967d1dc37ba7559cf121a66240830
- README.md bfe9a3e3ee6b7b0d612eaff22af319167bcf847c
+ README.md ea5e421d163c06e67f32939772784ec8f9568dbf
  TODO 00ae77c5fe7786b54d87f23f1867ae9fbdd6bc86
  bkp2U 3a549b23cc91cab92a34fb9fc10d257a783ca71f
  build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
- build.xml e119927041f9d2b60913e4d72e53d11a87d6c2f4
+ build.xml ae8869c43e49801033e39b412e3e6abed0b7ae1c
  classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
  countem 23d28027b7c2ee54b1ea3aa7b04dd1f4cd9ac66f
  ghpDoc
+  css
+   LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
+   ghp.css 1d6ebe8a6cf8f61f4645a793cb087dfae2420f33
+   main.css 018ed80b8a6e6607bc7c08595fa5a7fa56853885
+   normalize.css cba40c7ce3d558d00ff79d7505ac3d348015ec9c
+  img
+   GitHub-Mark-32px.png fabe53eb72f9b6d3d47cd95aff31ffc45c2fdbf8
+   chunk.jpg de2b27e41f1547fc14b13399f5906b4303b49657
+   chunk2.jpg d0593d312dbb8ea837c17b28cb639726e29ea93b
+   cluster-with-clients.jpg c167d04c0c6b5736ef9fe4cdc3fcce1956fdea78
+   simple-cluster.jpg 6b223ddd25937c1ef75ef328f36fc3436f10bd62
+   xl-registration.jpg 15cbf951f9db173a45428b32dcec87aca83bbdf0
+   xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
+  index.md 74899ab1b02feaf6f11f49a6228b969aaf83e2ca
  installit 5a44ff7d360ec59ffedecbe3d91711f56bb33e9f
  project.properties da39a3ee5e6b4b0d3255bfef95601890afd80709
  project.xml 2b46d5388c2adcf0993d654ecf94e9492fc42d27
@@ -35,7 +51,7 @@ xlCryptoServer_java
    org
     xlattice
      cryptoserver
-      Version.java 56ba2e2be84b78b94004d1069b8a2408441afdfd
+      Version.java b7d91452783045ba8d99e09cf3f226cd1ab7043e
      httpd
       cryptoserver
        Server.java 9616b4ab147a071a0ea53e38c18a66290d3d1736
@@ -50,4 +66,4 @@ xlCryptoServer_java
  test.all 5a6fe78a622aa99ce2c063f74d8d29f8be3be09a
 # END CONTENT #
 
-d1EFPbhe3pWPFyuCNvQW+xN+zlNd4Da6X/3XYTw9NtWHQZ6xUYHL5a2N8sZJBBwXQD+cj6LT6mp43Bck3ludi0dyps6kdVVXwNyTJRa4GzcgUEwQ49H9AMtb9GWBHwgtsmDA0KU2cfDXlt4rKrdqDMdz/mWmvYzRbWw9kRUKw/NTfIy9tch9eaLISSIjhuGaqvU35INydlccDp4SWDtL50l1o1kYZyXYSk3gG1G9n0MCxqclsb6YNYK8PdRxO1d20ZXh+jhY5rmKi9BVLNcjcCEh905lPsLzDVr8LvUPYyQFMC6Ao3Le94/ARxFqAHuBLk81hH6TXT/eMXAvu4D6KQ==
+XMi1EcHfxQ/ebllyZc0IPw052v4ekrWOjOF8N99vK0jPSP/vF9RZ/K3mvw+0IRG/uQKCl4RgazuqOhokgLOjr3M+j1ExlywasAz6I31U3GuU4RP1mnij5g8CjEbCaq8VHIJh4YfdnrwdqeOxzyda+Uj5dAlyH7DUtjBxXwQCyC8dEn0scozl6lWwelE7mUrshgty5ejivVhOhYT1iyIBHKNrliJ1EgJ1cjhq41AYP97wcszR5jwBDQdo2WKWDohZaD/mvROphPhzWdW5Qe4ikTOj8QLekJYKlW4rB+p318KkfNECveJu/kAWdn5l83Vs/2Rsmcb5wxDJwDEOi4lLbw==
